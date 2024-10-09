@@ -1,0 +1,4 @@
+Sales order,Client Name,Address,Email,Phone,Item,Amount,Description,Date
+00-001,John Smith,123 Main Street,abc@123.com,555-1234,Book,$17.00 ,Faulkner of the Inland Seas,10/9/2024
+00-001,John Smith,123 Main Street,abc@123.com,555-1234,Book,$14.00 ,The Zinzin Road,10/9/2024
+00-002,Jane Smith,124 Main Street,abc@123.com,555-1234,Book,$25.00 ,Linebackers: Monsters of the Midfield,10/9/2024
