@@ -1,3 +1,17 @@
+# Invoice Automation System
+
+This project automates the process of generating and sending invoices via email. The system consists of two Python scripts:
+
+1. **`invoice-generator.py`**: This script reads sales data from a CSV file and generates PDF invoices grouped by sales order. The invoices are saved in the specified directory.
+2. **`email-step.py`**: This script allows the user to select an invoice by entering its number, then sends the invoice via email to the corresponding client using Gmail's SMTP service.
+
+### Key Features:
+- **Automated Invoice Generation**: Create professional PDF invoices directly from your sales CSV data.
+- **Personalized Emailing**: Send the generated invoices to clients with personalized messages.
+- **Streamlined Workflow**: Minimal user input required; simply input the invoice number, and the system takes care of the rest.
+
+
+
 invoice-generator.py
 
 
